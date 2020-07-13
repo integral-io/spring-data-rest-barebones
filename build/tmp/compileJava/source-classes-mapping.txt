@@ -1,0 +1,10 @@
+com/example/thing/EngineerRepository.java
+ com.example.thing.EngineerRepository
+com/example/thing/SampleApp.java
+ com.example.thing.SampleApp
+com/example/thing/SideProject.java
+ com.example.thing.SideProject
+com/example/thing/SideProjectRepository.java
+ com.example.thing.SideProjectRepository
+com/example/thing/Engineer.java
+ com.example.thing.Engineer
